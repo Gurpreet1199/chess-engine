@@ -1,0 +1,14 @@
+hello!!
+
+This is an AI based Chess-Engine
+
+Requierments:
+1.Python Ide
+2. runs on windows/mac/linux
+
+To Run:
+1. clone the directory
+2. open in pycharm or any other pyhton based ide
+3. run from terminal --- python chessmain.py
+
+enjoy!!
